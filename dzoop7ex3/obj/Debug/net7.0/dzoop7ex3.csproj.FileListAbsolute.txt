@@ -1,0 +1,14 @@
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\bin\Debug\net7.0\dzoop7ex3.exe
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\bin\Debug\net7.0\dzoop7ex3.deps.json
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\bin\Debug\net7.0\dzoop7ex3.runtimeconfig.json
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\bin\Debug\net7.0\dzoop7ex3.dll
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\bin\Debug\net7.0\dzoop7ex3.pdb
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.AssemblyInfo.cs
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.dll
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\refint\dzoop7ex3.dll
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.pdb
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\dzoop7ex3.genruntimeconfig.cache
+C:\Users\Денис\source\repos\dzoop7ex3\dzoop7ex3\obj\Debug\net7.0\ref\dzoop7ex3.dll
